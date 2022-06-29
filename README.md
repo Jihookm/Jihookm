@@ -31,8 +31,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white" /></a>&nbsp;
-
-
+<br>
+# Contacts
+mok06234@gmail.com
 <!--
 **Jihookm/Jihookm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
