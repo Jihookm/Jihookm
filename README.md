@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi&nbsp;there&nbsp;👋&animation=twinkling)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mok06234)](https://solved.ac/mok06234)
@@ -34,6 +34,7 @@
 <br>
 # Contacts
 mok06234@gmail.com
+
 <!--
 **Jihookm/Jihookm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
